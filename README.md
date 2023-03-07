@@ -1,2 +1,2 @@
 # pprof
-pprof for sem02 is-105 uia
+pprof for sem02 is-105 uia - har redigert dette.
